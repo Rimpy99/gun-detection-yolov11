@@ -7,8 +7,8 @@ The model was trained and tested on Kaggle.
 - **Real-time detection** on images and videos
 - **Custom-trained YOLO11 model**
 - **Bounding boxes in different colors** for different classes
-  - `0` → Firearm (🔴 Red Bounding Box)
-  - `1` → Person (🟣 Purple Bounding Box)
+  - `0` → Firearm (Blue Bounding Box)
+  - `1` → Person (Light Blue Bounding Box)
  
 ## Dataset
 The model is trained on a **Gun Detection Dataset** from Roboflow, which includes various images of people holding weapons. Most of these images are from CCTV camera recordings.
